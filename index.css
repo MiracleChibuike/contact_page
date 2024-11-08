@@ -34,8 +34,7 @@ form{
 .touch p{
     color: rgb(150, 140, 140);
 }
-.address{
-    text-align: center;
+#address{
     padding: 10px;
    width: 100%;
 }
